@@ -11,7 +11,8 @@ option, by taking the complexity and risk out of integrating Dogecoin payments i
 business.
 
 
-## It's dangerous to go alone, take this?
+## It's dangerous to go alone, take this? Maybe! 
+
 
 
 > ⚠️ Note: GigaWallet is a software-engineering component for anyone looking to 
@@ -19,6 +20,7 @@ business.
 > If you are a user looking for a dogecoin wallet you can search the [wallet index](https://dogecoin.com/wallets/) 
 > on the [dogecoin.com](https://dogecoin.com) website. 
 
+<p><img src="images/dangerous.png" alt="dangerous to go alone" width="60%" style="margin-left: 20%;"/></p>
 
 It is expected that you are a comfortable with managing server infrastructure and 
 integrating with REST APIs. GigaWallet is a service that _must_ be deployed behind a 
