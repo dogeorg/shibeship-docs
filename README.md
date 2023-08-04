@@ -1,2 +1,2 @@
-# gigawallet-docs
-Documentation for GigaWallet, available at gigawallet.dogecoin.org
+# shibeship-docs
+Documentation for ShibeShip, available at shibeship.dogecoin.org
